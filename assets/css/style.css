@@ -1,0 +1,85 @@
+
+body{
+    font-size: 12pt;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.header{
+    background-image: url(../img/header.jpg);
+    height: 150px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.main-logo{
+    height: 100px;
+    width: 100px;
+}
+
+.brick{
+    width: 44%;
+    margin-bottom: 55px;
+    border-left: 7px #EBEBEB solid;
+}
+
+.title{
+    width: 100%;
+    font-size: 15pt;
+    font-weight: 20;
+    margin-top: 2px;
+}
+
+.title2{
+    width: 100%;
+    font-size: 13pt;
+    font-weight: 20;
+}
+
+.title3{
+	color: gray;
+    width: 100%;
+    font-size: 10pt;
+    font-weight: 20;
+}
+
+.author img {
+    height: 16px;
+    width: 16px;
+}
+
+.brief{
+    text-align: justify;
+    width: 100%;
+    font-size: 12pt;
+    margin-bottom: 20px;
+}
+
+.children {
+    padding-right: 10px;
+}
+
+.log-icon{
+    height: 16px;
+    width: 16px;
+}
+
+.thumb-up{
+    color: green;
+}
+
+.thumb-down{
+    color: red;
+}
+
+.facebook{
+    color: #3b579d;
+}
+
+.twitter{
+    color: #389ce0;
+}
+
+
